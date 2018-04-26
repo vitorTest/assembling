@@ -1,0 +1,5 @@
+1. Mounting the working directory from which DOSBox was started
+	Z:\>MOUNT D .
+
+2. Change directory
+	d:
